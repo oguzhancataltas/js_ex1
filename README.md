@@ -1,1 +1,1 @@
-# js_ex1
+# JavaScript Ödev 1
